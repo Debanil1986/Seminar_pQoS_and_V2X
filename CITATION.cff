@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "This is a citation for the seminar paper on Predictive Quality of Service for Autonomous Systems."
+title: "GitHub - Debanil1986/Seminar_pQoS_and_V2X"
+url: "https://github.com/Debanil1986/Seminar_pQoS_and_V2X"
+author:
+  - family-names: "Debanil"
+    given-names: "Debanil1986"
+date-released: "2025-05-08"
+type: "software"
