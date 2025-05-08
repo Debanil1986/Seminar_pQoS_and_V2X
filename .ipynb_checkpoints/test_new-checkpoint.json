@@ -1,0 +1,20 @@
+[
+	{"column_name":"frame_id","column_type":"BIGINT","null":"YES","key":null,"default":null,"extra":null},
+	{"column_name":"object_id","column_type":"VARCHAR","null":"YES","key":null,"default":null,"extra":null},
+	{"column_name":"object_type","column_type":"VARCHAR","null":"YES","key":null,"default":null,"extra":null},
+	{"column_name":"x","column_type":"DOUBLE","null":"YES","key":null,"default":null,"extra":null},
+	{"column_name":"y","column_type":"DOUBLE","null":"YES","key":null,"default":null,"extra":null},
+	{"column_name":"z","column_type":"DOUBLE","null":"YES","key":null,"default":null,"extra":null},
+	{"column_name":"qx","column_type":"DOUBLE","null":"YES","key":null,"default":null,"extra":null},
+	{"column_name":"qy","column_type":"DOUBLE","null":"YES","key":null,"default":null,"extra":null},
+	{"column_name":"qz","column_type":"DOUBLE","null":"YES","key":null,"default":null,"extra":null},
+	{"column_name":"qw","column_type":"DOUBLE","null":"YES","key":null,"default":null,"extra":null},
+	{"column_name":"length","column_type":"DOUBLE","null":"YES","key":null,"default":null,"extra":null},
+	{"column_name":"width","column_type":"DOUBLE","null":"YES","key":null,"default":null,"extra":null},
+	{"column_name":"height","column_type":"DOUBLE","null":"YES","key":null,"default":null,"extra":null},
+	{"column_name":"sensor_id","column_type":"VARCHAR","null":"YES","key":null,"default":null,"extra":null},
+	{"column_name":"occlusion_level","column_type":"VARCHAR","null":"YES","key":null,"default":null,"extra":null},
+	{"column_name":"num_points","column_type":"BIGINT","null":"YES","key":null,"default":null,"extra":null},
+	{"column_name":"score","column_type":"BIGINT","null":"YES","key":null,"default":null,"extra":null},
+	{"column_name":"timestamp","column_type":"DOUBLE","null":"YES","key":null,"default":null,"extra":null}
+]
