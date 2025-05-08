@@ -1,0 +1,6 @@
+# Ignore JSON schema files
+*.schema.json
+*.table.json
+
+LIDARJSONS/
+.DS_Store
