@@ -3,4 +3,5 @@
 *.table.json
 
 LIDARJSONS/
+testparaquet/
 .DS_Store
