@@ -8,3 +8,4 @@ venv/
 .DS_Store
 pycaret.ipynb
 logs.log
+*.csv
