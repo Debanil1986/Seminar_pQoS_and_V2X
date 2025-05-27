@@ -9,3 +9,5 @@ venv/
 pycaret.ipynb
 logs.log
 *.csv
+.ipynb_checkpoints/
+.virtual_documents/
