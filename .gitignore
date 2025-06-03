@@ -3,4 +3,12 @@
 *.table.json
 
 LIDARJSONS/
+testparaquet/
+venv/
 .DS_Store
+pycaret.ipynb
+logs.log
+*.csv
+.ipynb_checkpoints/
+.virtual_documents/
+*.png
