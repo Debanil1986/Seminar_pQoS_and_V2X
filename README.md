@@ -1,6 +1,5 @@
 # 🚗 Seminar_pQoS_and_V2X
-
-[English](#english) | [Deutsch](#deutsch)
+[English](#english-) | [Deutsch](#deutsch-)
 
 # English 🇬🇧
 
@@ -122,4 +121,6 @@ For our complete Code of Conduct, please see [CODE_OF_CONDUCT.md](CODE_OF_CONDUC
 ## 📚 Ausführlicher Verhaltenskodex
 
 Für unseren vollständigen Verhaltenskodex, siehe [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+
+
 
