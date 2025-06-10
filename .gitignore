@@ -3,7 +3,7 @@
 *.table.json
 
 LIDARJSONS/
-testparaquet/
+berlin_v2x/
 venv/
 .DS_Store
 pycaret.ipynb
