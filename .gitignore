@@ -11,4 +11,4 @@ logs.log
 *.csv
 .ipynb_checkpoints/
 .virtual_documents/
-*.png
+/*.png
