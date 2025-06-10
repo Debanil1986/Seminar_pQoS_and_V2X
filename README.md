@@ -71,3 +71,51 @@ Machine-Learning-Modellimplementierungen für prädiktive QoS-Auswertung, mit Fo
 - Python >= 3.10, < 3.13
 - pandas, numpy, pycaret
 - matplotlib, scikit-learn
+
+## 📜 Code of Conduct
+
+We are committed to providing a welcoming and inclusive environment. All participants must:
+
+- Be respectful and inclusive
+- Exercise consideration in speech and actions
+- Refrain from discriminatory behavior
+- Report issues to project maintainers
+- Follow professional standards
+
+### 🚫 Unacceptable Behavior
+
+- Harassment or discrimination
+- Harmful language or imagery
+- Personal or political attacks
+- Public or private harassment
+- Other unethical conduct
+
+Violations may result in temporary or permanent restrictions.
+
+## 📜 Verhaltenskodex
+
+Wir setzen uns für eine einladende und integrative Umgebung ein. Alle Teilnehmer müssen:
+
+- Respektvoll und inklusiv sein
+- Rücksichtsvoll in Wort und Tat sein
+- Diskriminierendes Verhalten unterlassen
+- Probleme an Projektbetreuer melden
+- Professionelle Standards einhalten
+
+### 🚫 Inakzeptables Verhalten
+
+- Belästigung oder Diskriminierung
+- Verletzende Sprache oder Bilder
+- Persönliche oder politische Angriffe
+- Öffentliche oder private Belästigung
+- Anderes unethisches Verhalten
+
+
+## 📚 Detailed Code of Conduct
+
+For our complete Code of Conduct, please see [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+
+## 📚 Ausführlicher Verhaltenskodex
+
+Für unseren vollständigen Verhaltenskodex, siehe [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+
