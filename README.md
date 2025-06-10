@@ -6,6 +6,8 @@
 
 ## 📖 Project Description
 This project explores predictive Quality of Service (pQoS) for Autonomous Systems, focusing on Vehicle-to-Everything (V2X) communication. The goal is to analyze and predict network performance to enhance the reliability and safety of autonomous vehicles.
+## 📥 Dataset
+To access the dataset, you need to download the Berlin dataset packages from [this link](https://ieee-dataport.org/open-access/berlin-v2x#). This dataset provides the necessary V2X communication data for analysis and model training.
 
 ## 🏗️ Architecture
 ![Architecture](images/Preprocessing_stage.png)
@@ -41,6 +43,8 @@ Machine learning model implementations for predictive QoS evaluation, focusing o
 
 ## 📖 Projektbeschreibung
 Dieses Projekt untersucht prädiktive Dienstqualität (pQoS) für autonome Systeme mit Fokus auf Vehicle-to-Everything (V2X) Kommunikation. Ziel ist es, die Netzwerkleistung zu analysieren und vorherzusagen, um die Zuverlässigkeit und Sicherheit autonomer Fahrzeuge zu verbessern.
+## 📥 Datensatz
+Um auf den Datensatz zuzugreifen, müssen Sie die Berliner Datensatzpakete von [diesem link](https://ieee-dataport.org/open-access/berlin-v2x#) herunterladen. Dieser Datensatz enthält die notwendigen V2X-Kommunikationsdaten für die Analyse und das Modelltraining.
 
 ## 🏗️ Architektur
 ![Architektur](images/Preprocessing_stage.png)
